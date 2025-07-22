@@ -16,9 +16,9 @@ Depois disso, se escolhe a pasta de destino do projeto; digamos que o endereço 
 * Pasta src com:
   - uma pasta main/java contendo todos os arquivos.java cujos endereços dependem dos IDs definidos, com cada elemento dividido com barras, pois cada um deles é uma pasta. Assim, os arquivos .java têm o padrão *artifactid/src/main/java/groupid/arquivo.java*). No caso deste repositório, temos:
 
-<p align="center">
-  <img width="304" height="85" alt="image" src="https://github.com/user-attachments/assets/d790babb-5f0a-4a48-85e7-3d73bbb33e8e" />
-</p>
+  <p align="center">
+    <img width="304" height="85" alt="image" src="https://github.com/user-attachments/assets/d790babb-5f0a-4a48-85e7-3d73bbb33e8e" />
+  </p>
 
   - pasta main/resources, que pode ser usada para armazenar imagens, arquivos relacionados a banco de dados, propriedades JSON, etc.
 
