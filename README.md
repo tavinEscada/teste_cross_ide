@@ -14,7 +14,7 @@ Uma vez que se tenha o JDK, o [Maven for Java](https://maven.apache.org/download
 
 Depois disso, se escolhe a pasta de destino do projeto; digamos que o endereço seja a área de trabalho (por exemplo, pasta C:/Users/usuario/Desktop). Com isso, é criada a estrutura do projeto Maven (seguindo o exemplo citado, em C:/Users/usuario/Desktop/teste-cross-ide). Temos, nessa estrutura:
 * Pasta src com:
-  - uma pasta main/java contendo todos os arquivos.java cujos endereços dependem dos IDs definidos, com cada elemento dividido com barras, pois cada um deles é uma pasta. Assim, os arquivos .java têm o padrão *artifactid/src/main/java/groupid/arquivo.java*). No caso deste repositório, temos:
+  - uma pasta main/java contendo todos os arquivos.java cujos endereços dependem dos IDs definidos, com cada elemento dividido com barras, pois cada um deles é uma pasta. Assim, os arquivos .java têm o padrão *artifactid/src/main/java/groupid/arquivo.java*. No caso deste repositório, temos:
 
   <p align="center">
     <img width="304" height="85" alt="image" src="https://github.com/user-attachments/assets/d790babb-5f0a-4a48-85e7-3d73bbb33e8e" />
